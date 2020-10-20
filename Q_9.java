@@ -31,9 +31,12 @@ System.out.println("Enter the length of array");
 		int div = arr[i]/e;
 		System.out.println(div);
 		sumo  = sumo+div;
+	sc.close();
 	}
 	
 	System.out.println("This is the total"+sumo);
+	//Authored by Nikhil Kutta
+	
 	
 	
 	}
