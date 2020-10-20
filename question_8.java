@@ -49,7 +49,7 @@ public class question_8 {
 			System.out.print(arr[u]);
 		}
 		
-		
+		//Authored by Nikhil Kutta
 		
 		
 		
