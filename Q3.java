@@ -22,6 +22,7 @@ public class Q3 {
 
 	        }
 	        System.out.println("This is the number "+arr[1]);
+		sc.close();
 
 	    }
 
