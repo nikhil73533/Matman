@@ -40,5 +40,7 @@ public class question_7 {
 		
 		
 		System.out.println("This is the number"+arr[count]);
+		sc.close();
 	}}
-		
+		//Authored by Nikhil Kutta
+
